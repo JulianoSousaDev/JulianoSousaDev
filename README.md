@@ -1,29 +1,27 @@
-### <p>Olá, sou Juliano Sousa
-<br>
+# Olá, sou Juliano Sousa
 <br>
 
-```sh
+### Sobre
  🖱️ Atualmente estudando e trabalhando com Frontend: { 💻 VueJS - 📱 React Native }
- ```
- ```sh
+
  📖 Cursando Sistemas de Informação: { 📅 ~~2022 }
- ```
- ```sh
- 🐾 Ajudando os animais através do 'Pets'
- ```
+
+ 🐾 Ajudando os animais através do Pets
  
-```sh
-Hobbies: 
+ 
+Hobbies: <br>
 🖥️Programação ⭐⭐⭐
+<br>
 🏐Volei ⭐⭐⭐⭐
+<br>
 🕹️Valorant ⭐⭐
-```
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianoRSousa&hide=contribs,prs)](https://www.linkedin.com/in/julianorsousa/)
 
-| Social |
+|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianoRSousa&hide=contribs,prs)](https://www.linkedin.com/in/julianorsousa/)|
+| ------ |
+
+|Social|
 | ------ |
 | [Linkedin - Julianorsousa](https://www.linkedin.com/in/julianorsousa/) |
 | [Github - Julianorsousa](https://github.com/julianorsousa) |
 | [Instagram - Julianorsousa](https://www.instagram.com/julianorsousa/) |
-
