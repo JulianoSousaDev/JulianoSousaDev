@@ -35,7 +35,11 @@ Hobbies: <br>
 
 |[![Juliano Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianoRSousa&hide=contribs,issues&show_icons=true&text_color=66a&bg_color=f8efd4)](https://www.linkedin.com/in/julianorsousa/)|
 | ------ |
+<!-- <a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoRSousa&theme=default" />
+</a> -->
 
+##### Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
 |Social|
 | ------ |
 | [![Linkedin: JulianoRSousa](https://img.shields.io/badge/-JulianoRSousa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianorsousa/)](https://www.linkedin.com/in/julianorsousa/)  
