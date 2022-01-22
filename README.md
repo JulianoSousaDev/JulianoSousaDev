@@ -33,7 +33,7 @@ Hobbies: <br>
 🕹️Valorant ⭐⭐
 
 
-|[![Juliano Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianoRSousa&hide=contribs,issues&show_icons=true)](https://www.linkedin.com/in/julianorsousa/)|
+|[![Juliano Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianoRSousa&hide=contribs,issues&show_icons=true&text_color=66a&bg_color=f8efd4)](https://www.linkedin.com/in/julianorsousa/)|
 | ------ |
 
 |Social|
