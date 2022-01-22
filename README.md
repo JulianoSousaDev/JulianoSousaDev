@@ -33,8 +33,11 @@ Hobbies: <br>
 🕹️Valorant ⭐⭐
 
 
-|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianoRSousa&hide=contribs,issues&show_icons=true)](https://www.linkedin.com/in/julianorsousa/)|
+|[![Juliano Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianoRSousa&hide=contribs,issues&show_icons=true)](https://www.linkedin.com/in/julianorsousa/)|
 | ------ |
+
+|[![Juliano Sousa](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoRSousa&hide=html&layout=compact=true&theme=default)](https://github.com/JulianoRSousa/)|
+| ----- |
 
 |Social|
 | ------ |
