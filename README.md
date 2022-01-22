@@ -42,7 +42,7 @@ Hobbies: <br>
 [![Gmail Badge](https://img.shields.io/badge/-juliano.sousa@unemat.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Juliano.sousa@unemat.br)](mailto:Juliano.sousa@unemat.br) 
 [![Discord: JulianoRSousa](https://img.shields.io/badge/-Discord-333333?style=flat-square&logo=discord&logoColor=white&link=https://discord.gg/bFhfJezJpm)](https://discord.gg/bFhfJezJpm)  |
 | [![Instagram: JulianoRSousa](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/julianorsousa/)](https://www.instagram.com/julianorsousa/)  
-[![WhatsApp: JulianoRSousa](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP)](https://discord.gg/bFhfJezJpm)  
+[![WhatsApp: JulianoRSousa](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5566996412373&text=Ol%C3%A1,%20Juliano)](https://api.whatsapp.com/send?phone=5566996412373&text=Ol%C3%A1,%20Juliano)  
 [![GitHub JulianoRSousa]( https://img.shields.io/github/followers/JulianoRSousa?label=follow&style=social)](https://github.com/JulianoRSousa/) |
 
 
