@@ -22,6 +22,7 @@ Hobbies: <br>
 
 |Social|
 | ------ |
-| [Linkedin - Julianorsousa](https://www.linkedin.com/in/julianorsousa/) |
-| [Github - Julianorsousa](https://github.com/julianorsousa) |
-| [Instagram - Julianorsousa](https://www.instagram.com/julianorsousa/) |
+| [![Linkedin: JulianoRSousa](https://img.shields.io/badge/-JulianoRSousa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianorsousa/)](https://www.linkedin.com/in/julianorsousa/) |
+|[![Gmail Badge](https://img.shields.io/badge/-juliano.sousa@unemat.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Juliano.sousa@unemat.br)](mailto:Juliano.sousa@unemat.br) |
+| [![GitHub JulianoRSousa]( https://img.shields.io/github/followers/JulianoRSousa?label=follow&style=social)](https://github.com/JulianoRSousa/) |
+
