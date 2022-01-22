@@ -2,4 +2,4 @@
 
 - Atualmente trabalhando com Frontend - VueJS - React Native
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianoRSousa)](https://github.com/JulianoRSousa/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianoRSousa)](https://github.com/JulianoRSousa/)
