@@ -1,6 +1,6 @@
-### Olá, eu sou Juliano Sousa
-
-
+### <p>Olá, sou Juliano Sousa
+<br>
+<br>
 
 ```sh
  🖱️ Atualmente estudando e trabalhando com Frontend: { 💻 VueJS - 📱 React Native }
