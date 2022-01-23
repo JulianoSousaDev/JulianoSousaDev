@@ -38,8 +38,7 @@ Hobbies: <br>
 <!-- <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoRSousa&theme=default" />
 </a> -->
-
-[![JulianoRSousa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JulianoRSousa)](https://wakatime.com/julianorsousa)
+[![JulianoRSousa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=99d4ba7a-9f91-4e09-bee5-c5c23d5a10b1)](https://wakatime.com/julianorsousa)
 
 
 ##### Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
