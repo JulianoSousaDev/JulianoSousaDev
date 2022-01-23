@@ -46,7 +46,7 @@ Hobbies: <br>
 
 
 
-##### Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
+#### Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
 |Social|
 | ------ |
 | [![Linkedin: JulianoRSousa](https://img.shields.io/badge/-JulianoRSousa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianorsousa/)](https://www.linkedin.com/in/julianorsousa/)  
