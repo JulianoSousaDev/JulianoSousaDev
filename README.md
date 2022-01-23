@@ -39,6 +39,8 @@ Hobbies: <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoRSousa&theme=default" />
 </a> -->
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=julianorsousa)](https://github.com/julianorsousa)
+
 ##### Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
 |Social|
 | ------ |
