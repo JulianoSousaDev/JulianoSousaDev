@@ -30,7 +30,7 @@ Hobbies: <br>
 <br>
 🏐Volei ⭐⭐⭐
 <br>
-🕹️Valorant ⭐⭐
+🕹️e-sports ⭐⭐
 
 
 |[![Juliano Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianoRSousa&hide=contribs,issues&show_icons=true&text_color=66a&bg_color=f8efd4)](https://www.linkedin.com/in/julianorsousa/)|
