@@ -4,7 +4,7 @@
 ### Sobre mim
  🖱️ Atualmente estudando e trabalhando com Frontend: { 💻 VueJS - 📱 React Native }
  
- 📖 Cursando Sistemas de Informação: { 📅 ~~2022 }
+ 📖 Cursando Sistemas de Informação
  
  🐾 Ajudando os animais através do Pets
  
