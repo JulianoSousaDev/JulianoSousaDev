@@ -2,12 +2,15 @@
 <br>
 
 ### Este é meu profissional (privado)
- Se deseja saber mais sobre meu projetos pessoais: 
+ Se deseja saber mais sobre meu projetos pessoais:
+ 
  [![Github: JulianoRSousa](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&link=https://github.com/JulianoRSousa/)](https://github.com/JulianoRSousa/)  
  
 ### Se deseja mais informações sobre o projeto Pets
+Acesse o repositório 
 [![Github: Pets](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&link=https://github.com/JulianoRSousa/Pets)](https://github.com/JulianoRSousa/Pets)
-ou pelo email: [![Gmail Badge](https://img.shields.io/badge/-juliano.sousa@unemat.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Juliano.sousa@unemat.br)](mailto:Juliano.sousa@unemat.br) 
+ou pelo email: 
+[![Gmail Badge](https://img.shields.io/badge/-juliano.sousa@unemat.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Juliano.sousa@unemat.br)](mailto:Juliano.sousa@unemat.br) 
  
  #### Minhas Skills
 
@@ -25,19 +28,7 @@ ou pelo email: [![Gmail Badge](https://img.shields.io/badge/-juliano.sousa@unema
  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
-
-|[![Juliano Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianoSousaDev&hide=contribs,issues&show_icons=true&text_color=66a&bg_color=f8efd4)](https://www.linkedin.com/in/julianorsousa/)|
-| ------ |
-<!-- <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoSousaDev&theme=default" />
-</a> -->
-[![JulianoRSousa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=892c334f-4393-40ae-b694-683a68d793bd&langs_count=5)](https://wakatime.com/JulianoSousaDev)
-
-[![Juliano's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoSousaDev&layout=compact&hide=c%23,ShaderLab)](https://github.com/JulianoSousaDev)
-
-
-
+ [![wakatime](https://wakatime.com/badge/user/892c334f-4393-40ae-b694-683a68d793bd.svg)](https://wakatime.com/@892c334f-4393-40ae-b694-683a68d793bd)
 
 
 #### Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
