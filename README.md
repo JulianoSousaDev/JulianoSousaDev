@@ -1,15 +1,15 @@
 # Olá, sou Juliano Sousa
 <br>
 
-### Este é meu profissional (privado)
+### Este é meu perfil profissional (privado)
  Se deseja saber mais sobre meu projetos pessoais:
  
  [![Github: JulianoRSousa](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&link=https://github.com/JulianoRSousa/)](https://github.com/JulianoRSousa/)  
  
 ### Se deseja mais informações sobre o projeto Pets
-Acesse o repositório 
+Acesse o repositório no 
 [![Github: Pets](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&link=https://github.com/JulianoRSousa/Pets)](https://github.com/JulianoRSousa/Pets)
-ou pelo email: 
+ou me contate pelo email: 
 [![Gmail Badge](https://img.shields.io/badge/-juliano.sousa@unemat.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Juliano.sousa@unemat.br)](mailto:Juliano.sousa@unemat.br) 
  
  #### Minhas Skills
